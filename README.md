@@ -41,8 +41,6 @@
 ##  PROGRAM:
 ```python
 Developing AI Agent with PEAS Description
-Developed by: EZHIL SREE J
-RegisterNumber: 212223230056
 
 class VacuumCleanerAgent:
     def __init__(self):
